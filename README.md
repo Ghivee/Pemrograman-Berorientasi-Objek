@@ -1,4 +1,13 @@
-﻿# Praktikum PBO
+# Object-Oriented Programming Coursework
 
-Kumpulan berkas praktikum mata kuliah PBO untuk akun GitHub [Ghivee](https://github.com/Ghivee).
+Lab exercises, midterm and final exam files for the Object-Oriented Programming course (Java, NetBeans).
 
+[Bahasa Indonesia](README.id.md)
+
+## Structure
+
+```
+Pertemuan 01 .. Pertemuan 09     weekly lab files
+UTS                               midterm exam files (employee product system)
+Responsi UAS                      final exam review files
+```
